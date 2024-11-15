@@ -2,6 +2,7 @@
     "manifest_version": 3,
     "version": "1.0",
     "name": "Unit conversion",
+    "author": "Supanok",
     "description": "A convenient extension for translating units of metric and imperial measurement systems",
     "action": {
         "default_popup": "popup/index.html",
